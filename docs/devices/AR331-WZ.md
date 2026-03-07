@@ -28,7 +28,7 @@ pageClass: device-page
 To start pairing of this device, long press the main knop until the menu is entered (display changes to PX, where X is a blinking number) and select P0 by pressing the knop shortly. It will show then CF and a blinking antenna symbol in the display and switch to the actual temperature and a stable antenna symbol when finished.
 
 ### Firmware
-Firmware version needs to be >=1.0.4. Older firmware versions are not working properly. Update via the manufacturers app (needs an Tuya compatible gateway/hub).
+Firmware version needs to be >=1.0.4. Older firmware versions are not working properly. Update via the manufacturers app (needs a Tuya compatible gateway/hub).
 
 <!-- Notes END: Do not edit below this line -->
 
